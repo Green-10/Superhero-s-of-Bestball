@@ -28,7 +28,6 @@
 - [Leaving the League](#section-xi---leaving-the-league)
    - [Leaving](#leaving-the-league)
    - [Missing Teams](#missing-teams)
-- [Devy Component](#section-xii---devy-component)
 - [Misc](#section-xiii---misc)
 - [Ammendments](#section-xiv---ammendments)
 <br>
@@ -37,8 +36,7 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Jacob Alley__
-> jalley3@gmail.com
+__Greeny__
 
 <br>
 
@@ -107,10 +105,9 @@ If a team does not pay their dues by the designated date they are not eligible t
    RB | 2 | No Limit
    WR | 3 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
+   FLEX (RB/WR/TE) | 3 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 20 | No Limit
-   IR | 2 | No Limit
 
 ## __Section V - Free Agency & Trading__ ##
 
@@ -129,13 +126,13 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Trades will be processed right away, if collusion is suspected file a report with the commissioner.
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
-- You must have paid that years fee for any draft picks that you trade. So if you trade a draft pick that is for the year 2022, then you must have paid the league dues for the 22 season. 
+- You must have paid that years fee for any draft picks that you trade. So if you trade a draft pick that is for the year 2023, then you must have paid the league dues for the 23 season. 
 
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
-- Snake format (1st to 12th then 12th to 1st).
-- The draft will be untimed.
+- Snake format
+- The draft will be 12 hours
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them. Missing their pick is defined as going a 24 hour period while on the clock. If this happens multiple times a replacement owner will be found.
 
@@ -150,14 +147,13 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Picks 9-12 will be assigned in inverse order of the postseason standings
 
 ### Draft Settings ###
-- There will be 5 rounds of the yearly draft.
-- Any devy players/rookies/free agents are all eligible to be drafted.
+- There will be 4 rounds of the yearly draft.
+- Any devy rookies/free agents are all eligible to be drafted.
 - The rookie draft will typically take place a week after the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - The draft will be untimed
 - Trading draft picks is allowed during the draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
-- Any undrafted college and high school players are not eligible to be drafted until the following year. 
 - Any undrafted player who is in the NFL will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them.
 
 ## Trading Draft Picks ##
@@ -220,15 +216,6 @@ If a team does not pay their dues by the designated date they are not eligible t
 - In the event of not having 12 teams by the rookie draft, we will postpone the draft by a month, each month until the season starts.
 - If an owner is still not found, the league will vote on whether to shrink in size (down to 10) or disburse.
 - If multiple owners leave at the same time, both of their players will be merged into a player pool, and new owners will have a draft to select their teams. 
-
-## __Section XII - Devy Component__ ##
-- This is a devy league, meaning that players can draft people who are still in college and or highschool for their teams. 
-- Devy players are not eligible to be on your actual roster until they have exhausted their college eligibility or they have been drafted (or signed) by an NFL team.
-- The is no limit on the number of devy players that a team can have
-- Devy players will be handled by a google sheets spreadsheet.
-- In order to trade devy players, both party members must announce the inclusion of devy players in the league chat at the time a trade goes through and the commish will udpate the spreadsheet accordingly.
-- Devy players "mature" into roseterable players on June 30th each year. By the 30th, all users must inform which of their maturing devy players they wish to move to their roster, and which ones they choose to cut. On July  1st all unwanted "mature" devy players will get sent to waivers and freeagency.
-- There is no limit on the age a potential devy prospect can be. If a user wants to draft a 13-year old phenom then that is their prerogative.
 
 ## __Section XIII - Misc__ ##
 - In the case that there is a discrepancy between the rules on the site and the rules stated here, please inform the commissioner immediately. If for some reason the commissioner is unavailable, the rules here take precedence. 
