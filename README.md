@@ -1,4 +1,4 @@
-# A League About Nothing #
+# Superhero's of Bestball #
 
 ## Table of Contents
 
