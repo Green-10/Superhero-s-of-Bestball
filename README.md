@@ -1,4 +1,4 @@
-# Superhero's of Bestball #
+# Superheroes of Bestball #
 
 ## Table of Contents
 
