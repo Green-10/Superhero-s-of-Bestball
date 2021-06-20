@@ -204,7 +204,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## __Section XI - Leaving the League__ ##
 ### Leaving the League ###
-- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2020 (when the 2021 payment is due). 
+- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2021 and 2022 dues. You decide you want to leave the league. You must notify the commissioner that 2021 will be your last year by late August (when the 2021 payment is due). 
 - During that final year, you will not be permitted to trade any future draft picks, whether receiving or sending.
 - If you are not willing to play the final season, you forfeit the money that you have paid.
 - In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
