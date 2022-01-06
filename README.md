@@ -174,6 +174,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - The two teams with the best regular season records will be assigned to the top two seeds, and receive a first round bye.
 - The next four teams will be assigned their playoff seeding spot based on regular season record.
 - The seedings will reseed so that the number 1 seed gets the best possible semi-final matchup.
+- The 6th seed will be decided by max PF
 
 <br><br>
 
